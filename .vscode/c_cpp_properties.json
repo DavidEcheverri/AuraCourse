@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "AuraEditor Editor Win64 Development (Aura)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\.vscode\\compileCommands_Aura.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

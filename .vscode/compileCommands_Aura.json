@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\Source\\Aura\\Aura.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\.vscode\\compileCommands_Aura\\Aura.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\Source\\Aura\\Aura.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\.vscode\\compileCommands_Aura\\Aura.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\Source\\Aura\\Aura.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\.vscode\\compileCommands_Aura\\Aura.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\Source\\Aura\\Private\\AuraCharacterBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\.vscode\\compileCommands_Aura\\Aura.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\Source\\Aura\\Public\\AuraCharacterBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UE5\\Aura_UE_Version_5_2\\Aura\\.vscode\\compileCommands_Aura\\Aura.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]
